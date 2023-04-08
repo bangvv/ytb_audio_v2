@@ -45,3 +45,5 @@ add_executable(TTS WIN32
 target_link_libraries(TTS
   PRIVATE Qt${QT_VERSION_MAJOR}::Core Qt${QT_VERSION_MAJOR}::Quick)
 
+
+# bangvv version1
